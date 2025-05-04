@@ -45,3 +45,5 @@ yarn-error.log
 
 # Bun specific files (if you're using Bun)
 bun.lockb
+
+.vercel
